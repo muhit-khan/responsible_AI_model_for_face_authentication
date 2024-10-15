@@ -1,0 +1,4 @@
+deepface
+mediapipe
+opencv-python
+numpy
